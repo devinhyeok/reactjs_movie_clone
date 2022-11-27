@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/reactjs_movie_clone/static/js/main.7ac0654f.js",
+    "main.js": "/reactjs_movie_clone/static/js/main.f493786d.js",
     "index.html": "/reactjs_movie_clone/index.html",
-    "main.7ac0654f.js.map": "/reactjs_movie_clone/static/js/main.7ac0654f.js.map"
+    "main.f493786d.js.map": "/reactjs_movie_clone/static/js/main.f493786d.js.map"
   },
   "entrypoints": [
-    "static/js/main.7ac0654f.js"
+    "static/js/main.f493786d.js"
   ]
 }
